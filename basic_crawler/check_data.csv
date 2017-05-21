@@ -1,0 +1,15 @@
+title,desc
+Learn the Watson API,
+,"In this course, you'll use Python to interact with the Twitter API and IBM's Personality Insights API in order to analyze traits shared between two Twitter users."
+PHP,
+,"By end the end of this course, you'll have gained familiarity with a very convenient, flexible server-side language: PHP. You'll be exposed to many fundamental programming concepts such as data types, functions, control flow, and more. "
+,"PHP is one of the simplest server-side languages out there, and it was designed primarily for web development. Learning PHP is good not only because it adds one more language to your toolbelt, but also because there is a large number of sites currently built with Wordpress, a content management system (CMS) built with PHP. "
+SQL: Analyzing Business Metrics,
+,"In this course created in partnership with Periscope, you'll get exposed to the basics of data analysis. You'll go through several workflows that will allow you to dissect and understand large amounts of data."
+,"Building on the knowledge from the Learn SQL course, this course expands on the skillset that you'll need to be able to interact with data and run meaningful analyses. "
+SQL: Table Transformation,
+,"In this course created in partnership with Looker, you'll get learn more about manipulating data stored in relational databases using SQL. You will get familiarized with subqueries, set operations, conditional aggregates, and more."
+,"This course lets you get more sophisticated with what you can do with data. Even if you are not doing data analysis yourself, understanding what is possible is essential in today's data-driven world."
+Python,
+,"This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you'll be familiar with Python syntax and you'll be able to put into practice what you'll have learned in a final project you'll develop locally."
+,"Python is a general-purpose, versatile and popular programming language. It's great as a first language because it is concise and easy to read, and it is also a good language to have in any programmer's stack as it can be used for everything from web development to software development and scientific applications."

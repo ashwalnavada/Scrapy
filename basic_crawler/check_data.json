@@ -1,0 +1,16 @@
+[
+{"title": "Learn the Watson API"},
+{"desc": "In this course, you'll use Python to interact with the Twitter API and IBM's Personality Insights API in order to analyze traits shared between two Twitter users."},
+{"title": "SQL: Analyzing Business Metrics"},
+{"desc": "In this course created in partnership with Periscope, you'll get exposed to the basics of data analysis. You'll go through several workflows that will allow you to dissect and understand large amounts of data."},
+{"desc": "Building on the knowledge from the Learn SQL course, this course expands on the skillset that you'll need to be able to interact with data and run meaningful analyses. "},
+{"title": "PHP"},
+{"desc": "By end the end of this course, you'll have gained familiarity with a very convenient, flexible server-side language: PHP. You'll be exposed to many fundamental programming concepts such as data types, functions, control flow, and more. "},
+{"desc": "PHP is one of the simplest server-side languages out there, and it was designed primarily for web development. Learning PHP is good not only because it adds one more language to your toolbelt, but also because there is a large number of sites currently built with Wordpress, a content management system (CMS) built with PHP. "},
+{"title": "SQL: Table Transformation"},
+{"desc": "In this course created in partnership with Looker, you'll get learn more about manipulating data stored in relational databases using SQL. You will get familiarized with subqueries, set operations, conditional aggregates, and more."},
+{"desc": "This course lets you get more sophisticated with what you can do with data. Even if you are not doing data analysis yourself, understanding what is possible is essential in today's data-driven world."},
+{"title": "Learn the Command Line"},
+{"desc": "By the end of the course, you will be able to navigate, access, and modify files and folders on your computer\u2014all without a mouse!"},
+{"desc": "We use our mouse and fingers to click images of icons and access files, programs, and folders on our devices. However, this is just one way for us to communicate with computers. The command line is a quick, powerful, text-based interface developers use to more effectively and efficiently communicate with computers to accomplish a wider set of tasks. Learning how to use it will allow you to discover all that your computer is capable of!"}
+]
