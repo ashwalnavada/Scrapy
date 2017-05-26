@@ -1,1 +1,1 @@
-Building a spider using the Scrapy framework using Python. This bot will crawl specific pages on a site to extract certain data(attributes like Title, Description..)
+Trying to build a spider using the Scrapy framework using Python. This bot will crawl specific pages on a site to extract certain data(attributes like Title, Description..)
