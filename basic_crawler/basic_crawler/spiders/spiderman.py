@@ -13,7 +13,7 @@ class MySpider(BaseSpider):
 	def parse(self, response):
 		hxs = Selector(response)
 
-		#CODE for scraping titles 
+		#CODE for scraping titles from website
 		titles = hxs.xpath('/html/body/div[2]/section/section/div/div/div[2]/div[1]/div/div/div/div[1]/div[2]/div[1]/text()').extract()
 	 	for title in titles:
 			course = BasicCrawlerItem()
