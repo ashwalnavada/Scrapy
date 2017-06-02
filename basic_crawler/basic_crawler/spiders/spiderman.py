@@ -6,7 +6,7 @@ import re
 
 
 class MySpider(BaseSpider):
-	name = "basic_crawler"
+	name = "basic__crawler"
 	allowed_domains = ['codecademy.com']
 	start_urls = ["https://www.codecademy.com/learn"]
 
